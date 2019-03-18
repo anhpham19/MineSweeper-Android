@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MineSweeper</string>
+    <string name="reset">Reset</string>
+    <string name="flag">Flag</string>
+    <string name="mine">Mine</string>
+    <string name="correct_flag">Correct flag! Keep going!</string>
+    <string name="wrong_flag">Wrong flag! You lost</string>
+    <string name="win_flag">All bombs detected! You won!</string>
+    <string name="lost_bomb">Bomb hit! You lost</string>
 </resources>
